@@ -6,7 +6,7 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
-import pe.upeu.ecorecicla.dominio.PuntoAcopio;git add .
+import pe.upeu.ecorecicla.dominio.PuntoAcopio;
 import pe.upeu.ecorecicla.servicio.PuntoAcopioService;
 import pe.upeu.ecorecicla.web.dto.RespuestaPaginada;
 
